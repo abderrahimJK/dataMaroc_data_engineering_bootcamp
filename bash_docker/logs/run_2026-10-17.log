@@ -1,0 +1,1178 @@
+[20:00] INFO: job started
+[20:00] INFO: reading incoming/returns_agadir.csv
+[20:00] INFO: missing column 'unit_price' in returns_agadir.csv
+[20:00] INFO: job finished
+[20:00] INFO: job started
+[20:00] INFO: reading incoming/returns_casa.csv
+[20:00] INFO: missing column 'unit_price' in returns_casa.csv
+[20:00] INFO: job finished
+[20:00] INFO: job started
+[20:00] INFO: reading incoming/returns_tanger.csv
+[20:00] INFO: missing column 'unit_price' in returns_tanger.csv
+[20:00] INFO: job finished
+[20:37] INFO: job started
+[20:37] INFO: reading incoming/returns_agadir.csv
+[20:37] INFO: Riz,1
+The Sinya,2
+Sel,1
+Dattes Majhoul,1
+Pois chiches,1
+Lentilles,3
+Farine,1
+Sucre,1
+Beurre,1
+Semoule,2
+Lait,1
+Citrons,2
+Pain,1
+Sardines en boite,2
+Oranges,1
+Pommes de terre,2
+Oeufs,1
+Oignons,4
+Couscous,1
+Olives vertes,2
+Huile d'argan,1
+Olives noires,1 for Oranges
+[20:37] INFO: archived as returns_agadir_2026-10-17.csv
+[20:37] INFO: job finished
+[20:37] INFO: job started
+[20:37] INFO: reading incoming/returns_casa.csv
+[20:37] INFO: Sel,2
+Riz,2
+The Sinya,1
+Huile d'olive,1
+Pois chiches,1
+Lentilles,2
+Sucre,1
+Beurre,1
+Semoule,1
+Tomates,3
+Lait,2
+Citrons,1
+Pain,1
+Oranges,4
+Sardines en boite,2
+Pommes de terre,2
+Miel,2
+Oignons,2
+Oeufs,1
+Couscous,1
+Huile d'argan,1 for Lentilles
+[20:37] INFO: archived as returns_casa_2026-10-17.csv
+[20:37] INFO: job finished
+[20:37] INFO: job started
+[20:37] INFO: reading incoming/returns_tanger.csv
+[20:37] INFO: Riz,1
+Sel,1
+Dattes Majhoul,3
+Lentilles,4
+Pois chiches,3
+Sucre,1
+Tomates,1
+Citrons,1
+Lait,3
+Pain,1
+Oranges,1
+Sardines en boite,2
+Pommes de terre,1
+Amandes,1
+Miel,2
+Oeufs,1
+Oignons,2
+Couscous,1
+Huile d'argan,3 for Amandes
+[20:37] INFO: archived as returns_tanger_2026-10-17.csv
+[20:37] INFO: job finished
+[20:43] INFO: job started
+[20:43] INFO: reading incoming/returns_agadir.csv
+[20:43] INFO: Riz,1
+The Sinya,2
+Sel,1
+Dattes Majhoul,1
+Pois chiches,1
+Lentilles,3
+Farine,1
+Sucre,1
+Beurre,1
+Semoule,2
+Lait,1
+Citrons,2
+Pain,1
+Sardines en boite,2
+Oranges,1
+Pommes de terre,2
+Oeufs,1
+Oignons,4
+Couscous,1
+Olives vertes,2
+Huile d'argan,1
+Olives noires,1 for Oranges
+[20:43] INFO: archived as returns_agadir_2026-10-17.csv
+[20:43] INFO: job finished
+[20:43] INFO: job started
+[20:43] INFO: reading incoming/returns_casa.csv
+[20:43] INFO: Sel,2
+Riz,2
+The Sinya,1
+Huile d'olive,1
+Pois chiches,1
+Lentilles,2
+Sucre,1
+Beurre,1
+Semoule,1
+Tomates,3
+Lait,2
+Citrons,1
+Pain,1
+Oranges,4
+Sardines en boite,2
+Pommes de terre,2
+Miel,2
+Oignons,2
+Oeufs,1
+Couscous,1
+Huile d'argan,1 for Lentilles
+[20:43] INFO: archived as returns_casa_2026-10-17.csv
+[20:43] INFO: job finished
+[20:43] INFO: job started
+[20:43] INFO: reading incoming/returns_tanger.csv
+[20:43] INFO: Riz,1
+Sel,1
+Dattes Majhoul,3
+Lentilles,4
+Pois chiches,3
+Sucre,1
+Tomates,1
+Citrons,1
+Lait,3
+Pain,1
+Oranges,1
+Sardines en boite,2
+Pommes de terre,1
+Amandes,1
+Miel,2
+Oeufs,1
+Oignons,2
+Couscous,1
+Huile d'argan,3 for Amandes
+[20:43] INFO: archived as returns_tanger_2026-10-17.csv
+[20:43] INFO: job finished
+[20:44] INFO: job started
+[20:44] INFO: reading incoming/returns_agadir.csv
+[20:44] INFO: Riz,1
+The Sinya,2
+Sel,1
+Dattes Majhoul,1
+Pois chiches,1
+Lentilles,3
+Farine,1
+Sucre,1
+Beurre,1
+Semoule,2
+Lait,1
+Citrons,2
+Pain,1
+Sardines en boite,2
+Oranges,1
+Pommes de terre,2
+Oeufs,1
+Oignons,4
+Couscous,1
+Olives vertes,2
+Huile d'argan,1
+Olives noires,1 for Oranges
+[20:44] INFO: archived as returns_agadir_2026-10-17.csv
+[20:44] INFO: job finished
+[20:44] INFO: job started
+[20:44] INFO: reading incoming/returns_casa.csv
+[20:44] INFO: Sel,2
+Riz,2
+The Sinya,1
+Huile d'olive,1
+Pois chiches,1
+Lentilles,2
+Sucre,1
+Beurre,1
+Semoule,1
+Tomates,3
+Lait,2
+Citrons,1
+Pain,1
+Oranges,4
+Sardines en boite,2
+Pommes de terre,2
+Miel,2
+Oignons,2
+Oeufs,1
+Couscous,1
+Huile d'argan,1 for Lentilles
+[20:44] INFO: archived as returns_casa_2026-10-17.csv
+[20:44] INFO: job finished
+[20:44] INFO: job started
+[20:44] INFO: reading incoming/returns_tanger.csv
+[20:44] INFO: Riz,1
+Sel,1
+Dattes Majhoul,3
+Lentilles,4
+Pois chiches,3
+Sucre,1
+Tomates,1
+Citrons,1
+Lait,3
+Pain,1
+Oranges,1
+Sardines en boite,2
+Pommes de terre,1
+Amandes,1
+Miel,2
+Oeufs,1
+Oignons,2
+Couscous,1
+Huile d'argan,3 for Amandes
+[20:44] INFO: archived as returns_tanger_2026-10-17.csv
+[20:44] INFO: job finished
+[20:59] INFO: job started
+[20:59] INFO: reading incoming/returns_agadir.csv
+[20:59] INFO: Riz,1
+The Sinya,2
+Sel,1
+Dattes Majhoul,1
+Pois chiches,1
+Lentilles,3
+Farine,1
+Sucre,1
+Beurre,1
+Semoule,2
+Lait,1
+Citrons,2
+Pain,1
+Sardines en boite,2
+Oranges,1
+Pommes de terre,2
+Oeufs,1
+Oignons,4
+Couscous,1
+Olives vertes,2
+Huile d'argan,1
+Olives noires,1 for Oranges
+[20:59] INFO: archived as returns_agadir_2026-10-17.csv
+[20:59] INFO: job finished
+[20:59] INFO: job started
+[20:59] INFO: reading incoming/returns_casa.csv
+[20:59] INFO: Sel,2
+Riz,2
+The Sinya,1
+Huile d'olive,1
+Pois chiches,1
+Lentilles,2
+Sucre,1
+Beurre,1
+Semoule,1
+Tomates,3
+Lait,2
+Citrons,1
+Pain,1
+Oranges,4
+Sardines en boite,2
+Pommes de terre,2
+Miel,2
+Oignons,2
+Oeufs,1
+Couscous,1
+Huile d'argan,1 for Lentilles
+[20:59] INFO: archived as returns_casa_2026-10-17.csv
+[20:59] INFO: job finished
+[20:59] INFO: job started
+[20:59] INFO: reading incoming/returns_tanger.csv
+[20:59] INFO: Riz,1
+Sel,1
+Dattes Majhoul,3
+Lentilles,4
+Pois chiches,3
+Sucre,1
+Tomates,1
+Citrons,1
+Lait,3
+Pain,1
+Oranges,1
+Sardines en boite,2
+Pommes de terre,1
+Amandes,1
+Miel,2
+Oeufs,1
+Oignons,2
+Couscous,1
+Huile d'argan,3 for Amandes
+[20:59] INFO: archived as returns_tanger_2026-10-17.csv
+[20:59] INFO: job finished
+[21:09] INFO: job started
+[21:09] INFO: reading incoming/returns_agadir.csv
+[21:09] INFO: Riz,1
+The Sinya,2
+Sel,1
+Dattes Majhoul,1
+Pois chiches,1
+Lentilles,3
+Farine,1
+Sucre,1
+Beurre,1
+Semoule,2
+Lait,1
+Citrons,2
+Pain,1
+Sardines en boite,2
+Oranges,1
+Pommes de terre,2
+Oeufs,1
+Oignons,4
+Couscous,1
+Olives vertes,2
+Huile d'argan,1
+Olives noires,1 for 
+[21:09] INFO: archived as returns_agadir_2026-10-17.csv
+[21:09] INFO: job finished
+[21:09] INFO: job started
+[21:09] INFO: reading incoming/returns_casa.csv
+[21:09] INFO: Sel,2
+Riz,2
+The Sinya,1
+Huile d'olive,1
+Pois chiches,1
+Lentilles,2
+Sucre,1
+Beurre,1
+Semoule,1
+Tomates,3
+Lait,2
+Citrons,1
+Pain,1
+Oranges,4
+Sardines en boite,2
+Pommes de terre,2
+Miel,2
+Oignons,2
+Oeufs,1
+Couscous,1
+Huile d'argan,1 for 
+[21:09] INFO: archived as returns_casa_2026-10-17.csv
+[21:09] INFO: job finished
+[21:09] INFO: job started
+[21:09] INFO: reading incoming/returns_tanger.csv
+[21:09] INFO: missing column reason in returns_tanger.csv
+[21:09] INFO: job finished
+[21:13] INFO: job started
+[21:13] INFO: reading incoming/returns_tanger.csv
+[21:13] INFO: missing column reason in returns_tanger.csv
+[21:13] INFO: job finished
+[21:17] INFO: job started
+[21:17] INFO: reading incoming/returns_agadir.csv
+[21:17] INFO: missing column category in returns_agadir.csv
+[21:17] INFO: job finished
+[21:17] INFO: job started
+[21:17] INFO: reading incoming/returns_casa.csv
+[21:17] INFO: missing column category in returns_casa.csv
+[21:17] INFO: job finished
+[21:17] INFO: job started
+[21:17] INFO: reading incoming/returns_tanger.csv
+[21:17] INFO: Riz,1
+Sel,1
+Dattes Majhoul,3
+Lentilles,4
+Pois chiches,3
+Sucre,1
+Tomates,1
+Citrons,1
+Lait,3
+Pain,1
+Oranges,1
+Sardines en boite,2
+Pommes de terre,1
+Amandes,1
+Miel,2
+Oeufs,1
+Oignons,2
+Couscous,1
+Huile d'argan,3 for Amandes
+[21:17] INFO: archived as returns_tanger_2026-10-17.csv
+[21:17] INFO: job finished
+[21:32] INFO: job started
+[21:32] INFO: reading incoming/returns_agadir.csv
+[21:32] INFO: founr Oranges
+[21:32] INFO: archived as returns_agadir_2026-10-17.csv
+[21:32] INFO: job finished
+[21:32] INFO: job started
+[21:32] INFO: reading incoming/returns_casa.csv
+[21:32] INFO: founr Lentilles
+[21:32] INFO: archived as returns_casa_2026-10-17.csv
+[21:32] INFO: job finished
+[21:32] INFO: job started
+[21:32] INFO: reading incoming/returns_tanger.csv
+[21:32] INFO: missing column reason in returns_tanger.csv
+[21:32] INFO: job finished
+[21:33] INFO: job started
+[21:33] INFO: reading incoming/returns_agadir.csv
+[21:33] INFO: founr Oranges
+[21:33] INFO: archived as returns_agadir_2026-10-17.csv
+[21:33] INFO: job finished
+[21:33] INFO: job started
+[21:33] INFO: reading incoming/returns_casa.csv
+[21:33] INFO: founr Lentilles
+[21:33] INFO: archived as returns_casa_2026-10-17.csv
+[21:33] INFO: job finished
+[21:33] INFO: job started
+[21:33] INFO: reading incoming/returns_tanger.csv
+[21:33] INFO: founr Amandes
+[21:33] INFO: archived as returns_tanger_2026-10-17.csv
+[21:33] INFO: job finished
+[21:37] INFO: job started
+[21:37] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:37] INFO: archived as returns_agadir_2026-10-17.csv
+[21:37] INFO: job finished
+[21:37] INFO: job started
+[21:37] INFO: reading incoming/returns_casa.csv
+INFO
+[21:37] INFO: archived as returns_casa_2026-10-17.csv
+[21:37] INFO: job finished
+[21:37] INFO: job started
+[21:37] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:37] INFO: archived as returns_tanger_2026-10-17.csv
+[21:37] INFO: job finished
+[21:41] INFO: job started
+[21:41] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:41] INFO: archived as returns_agadir_2026-10-17.csv
+[21:41] INFO: job finished
+[21:41] INFO: job started
+[21:41] INFO: reading incoming/returns_casa.csv
+INFO
+[21:41] INFO: archived as returns_casa_2026-10-17.csv
+[21:41] INFO: job finished
+[21:41] INFO: job started
+[21:41] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:41] INFO: archived as returns_tanger_2026-10-17.csv
+[21:41] INFO: job finished
+[21:41] INFO: job started
+[21:41] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:41] INFO: archived as returns_agadir_2026-10-17.csv
+[21:41] INFO: job finished
+[21:41] INFO: job started
+[21:41] INFO: reading incoming/returns_casa.csv
+INFO
+[21:41] INFO: archived as returns_casa_2026-10-17.csv
+[21:41] INFO: job finished
+[21:41] INFO: job started
+[21:41] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:41] INFO: archived as returns_tanger_2026-10-17.csv
+[21:41] INFO: job finished
+[21:41] INFO: job started
+[21:41] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:41] INFO: archived as returns_agadir_2026-10-17.csv
+[21:41] INFO: job finished
+[21:41] INFO: job started
+[21:41] INFO: reading incoming/returns_casa.csv
+INFO
+[21:41] INFO: archived as returns_casa_2026-10-17.csv
+[21:41] INFO: job finished
+[21:41] INFO: job started
+[21:41] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:41] INFO: archived as returns_tanger_2026-10-17.csv
+[21:41] INFO: job finished
+[21:41] INFO: job started
+[21:41] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:41] INFO: archived as returns_agadir_2026-10-17.csv
+[21:41] INFO: job finished
+[21:41] INFO: job started
+[21:41] INFO: reading incoming/returns_casa.csv
+INFO
+[21:41] INFO: archived as returns_casa_2026-10-17.csv
+[21:41] INFO: job finished
+[21:41] INFO: job started
+[21:41] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:41] INFO: archived as returns_tanger_2026-10-17.csv
+[21:41] INFO: job finished
+[21:42] INFO: job started
+[21:42] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:42] INFO: archived as returns_agadir_2026-10-17.csv
+[21:42] INFO: job finished
+[21:42] INFO: job started
+[21:42] INFO: reading incoming/returns_casa.csv
+INFO
+[21:42] INFO: archived as returns_casa_2026-10-17.csv
+[21:42] INFO: job finished
+[21:42] INFO: job started
+[21:42] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:42] INFO: archived as returns_tanger_2026-10-17.csv
+[21:42] INFO: job finished
+[21:42] INFO: job started
+[21:42] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:42] INFO: archived as returns_agadir_2026-10-17.csv
+[21:42] INFO: job finished
+[21:42] INFO: job started
+[21:42] INFO: reading incoming/returns_casa.csv
+INFO
+[21:42] INFO: archived as returns_casa_2026-10-17.csv
+[21:42] INFO: job finished
+[21:42] INFO: job started
+[21:42] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:42] INFO: archived as returns_tanger_2026-10-17.csv
+[21:42] INFO: job finished
+[21:42] INFO: job started
+[21:42] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:42] INFO: archived as returns_agadir_2026-10-17.csv
+[21:42] INFO: job finished
+[21:42] INFO: job started
+[21:42] INFO: reading incoming/returns_casa.csv
+INFO
+[21:42] INFO: archived as returns_casa_2026-10-17.csv
+[21:42] INFO: job finished
+[21:42] INFO: job started
+[21:42] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:42] INFO: archived as returns_tanger_2026-10-17.csv
+[21:42] INFO: job finished
+[21:42] INFO: job started
+[21:42] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:42] INFO: archived as returns_agadir_2026-10-17.csv
+[21:42] INFO: job finished
+[21:42] INFO: job started
+[21:42] INFO: reading incoming/returns_casa.csv
+INFO
+[21:42] INFO: archived as returns_casa_2026-10-17.csv
+[21:42] INFO: job finished
+[21:42] INFO: job started
+[21:42] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:42] INFO: archived as returns_tanger_2026-10-17.csv
+[21:42] INFO: job finished
+[21:42] INFO: job started
+[21:42] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:42] INFO: archived as returns_agadir_2026-10-17.csv
+[21:42] INFO: job finished
+[21:42] INFO: job started
+[21:42] INFO: reading incoming/returns_casa.csv
+INFO
+[21:42] INFO: archived as returns_casa_2026-10-17.csv
+[21:42] INFO: job finished
+[21:42] INFO: job started
+[21:42] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:42] INFO: archived as returns_tanger_2026-10-17.csv
+[21:42] INFO: job finished
+[21:42] INFO: job started
+[21:42] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:42] INFO: archived as returns_agadir_2026-10-17.csv
+[21:42] INFO: job finished
+[21:42] INFO: job started
+[21:42] INFO: reading incoming/returns_casa.csv
+INFO
+[21:42] INFO: archived as returns_casa_2026-10-17.csv
+[21:42] INFO: job finished
+[21:42] INFO: job started
+[21:42] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:42] INFO: archived as returns_tanger_2026-10-17.csv
+[21:42] INFO: job finished
+[21:43] INFO: job started
+[21:43] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:43] INFO: archived as returns_agadir_2026-10-17.csv
+[21:43] INFO: job finished
+[21:43] INFO: job started
+[21:43] INFO: reading incoming/returns_casa.csv
+INFO
+[21:43] INFO: archived as returns_casa_2026-10-17.csv
+[21:43] INFO: job finished
+[21:43] INFO: job started
+[21:43] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:43] INFO: archived as returns_tanger_2026-10-17.csv
+[21:43] INFO: job finished
+[21:43] INFO: job started
+[21:43] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:43] INFO: archived as returns_agadir_2026-10-17.csv
+[21:43] INFO: job finished
+[21:43] INFO: job started
+[21:43] INFO: reading incoming/returns_casa.csv
+INFO
+[21:43] INFO: archived as returns_casa_2026-10-17.csv
+[21:43] INFO: job finished
+[21:43] INFO: job started
+[21:43] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:43] INFO: archived as returns_tanger_2026-10-17.csv
+[21:43] INFO: job finished
+[21:43] INFO: job started
+[21:43] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:43] INFO: archived as returns_agadir_2026-10-17.csv
+[21:43] INFO: job finished
+[21:43] INFO: job started
+[21:43] INFO: reading incoming/returns_casa.csv
+INFO
+[21:43] INFO: archived as returns_casa_2026-10-17.csv
+[21:43] INFO: job finished
+[21:43] INFO: job started
+[21:43] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:43] INFO: archived as returns_tanger_2026-10-17.csv
+[21:43] INFO: job finished
+[21:43] INFO: job started
+[21:43] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:43] INFO: archived as returns_agadir_2026-10-17.csv
+[21:43] INFO: job finished
+[21:43] INFO: job started
+[21:43] INFO: reading incoming/returns_casa.csv
+INFO
+[21:43] INFO: archived as returns_casa_2026-10-17.csv
+[21:43] INFO: job finished
+[21:43] INFO: job started
+[21:43] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:43] INFO: archived as returns_tanger_2026-10-17.csv
+[21:43] INFO: job finished
+[21:43] INFO: job started
+[21:43] INFO: reading incoming/returns_agadir.csv
+[21:43] INFO: job started
+[21:43] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:43] INFO: archived as returns_agadir_2026-10-17.csv
+[21:43] INFO: job finished
+[21:43] INFO: job started
+[21:43] INFO: reading incoming/returns_casa.csv
+INFO
+[21:43] INFO: archived as returns_casa_2026-10-17.csv
+[21:43] INFO: job finished
+[21:43] INFO: job started
+[21:43] INFO: reading incoming/returns_tanger.csv
+INFO
+INFO
+[21:43] INFO: archived as returns_tanger_2026-10-17.csv
+[21:43] INFO: job finished
+[21:43] INFO: archived as returns_agadir_2026-10-17.csv
+[21:43] INFO: job finished
+[21:43] INFO: job started
+[21:43] INFO: reading incoming/returns_casa.csv
+INFO
+[21:43] INFO: archived as returns_casa_2026-10-17.csv
+[21:43] INFO: job finished
+[21:43] INFO: job started
+[21:43] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:43] INFO: archived as returns_tanger_2026-10-17.csv
+[21:43] INFO: job finished
+[21:43] INFO: job started
+[21:43] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:43] INFO: archived as returns_agadir_2026-10-17.csv
+[21:43] INFO: job finished
+[21:43] INFO: job started
+[21:43] INFO: reading incoming/returns_casa.csv
+INFO
+[21:43] INFO: archived as returns_casa_2026-10-17.csv
+[21:43] INFO: job finished
+[21:43] INFO: job started
+[21:43] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:43] INFO: archived as returns_tanger_2026-10-17.csv
+[21:43] INFO: job finished
+[21:44] INFO: job started
+[21:44] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:44] INFO: archived as returns_agadir_2026-10-17.csv
+[21:44] INFO: job finished
+[21:44] INFO: job started
+[21:44] INFO: reading incoming/returns_casa.csv
+INFO
+[21:44] INFO: archived as returns_casa_2026-10-17.csv
+[21:44] INFO: job finished
+[21:44] INFO: job started
+[21:44] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:44] INFO: archived as returns_tanger_2026-10-17.csv
+[21:44] INFO: job finished
+[21:44] INFO: job started
+[21:44] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:44] INFO: archived as returns_agadir_2026-10-17.csv
+[21:44] INFO: job finished
+[21:44] INFO: job started
+[21:44] INFO: reading incoming/returns_casa.csv
+INFO
+[21:44] INFO: archived as returns_casa_2026-10-17.csv
+[21:44] INFO: job finished
+[21:44] INFO: job started
+[21:44] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:44] INFO: archived as returns_tanger_2026-10-17.csv
+[21:44] INFO: job finished
+[21:44] INFO: job started
+[21:44] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:44] INFO: archived as returns_agadir_2026-10-17.csv
+[21:44] INFO: job finished
+[21:44] INFO: job started
+[21:44] INFO: reading incoming/returns_casa.csv
+INFO
+[21:44] INFO: archived as returns_casa_2026-10-17.csv
+[21:44] INFO: job finished
+[21:44] INFO: job started
+[21:44] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:44] INFO: archived as returns_tanger_2026-10-17.csv
+[21:44] INFO: job finished
+[21:44] INFO: job started
+[21:44] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:44] INFO: archived as returns_agadir_2026-10-17.csv
+[21:44] INFO: job finished
+[21:44] INFO: job started
+[21:44] INFO: reading incoming/returns_casa.csv
+INFO
+[21:44] INFO: archived as returns_casa_2026-10-17.csv
+[21:44] INFO: job finished
+[21:44] INFO: job started
+[21:44] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:44] INFO: archived as returns_tanger_2026-10-17.csv
+[21:44] INFO: job finished
+[21:44] INFO: job started
+[21:44] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:44] INFO: archived as returns_agadir_2026-10-17.csv
+[21:44] INFO: job finished
+[21:44] INFO: job started
+[21:44] INFO: reading incoming/returns_casa.csv
+INFO
+[21:44] INFO: archived as returns_casa_2026-10-17.csv
+[21:44] INFO: job finished
+[21:44] INFO: job started
+[21:44] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:44] INFO: archived as returns_tanger_2026-10-17.csv
+[21:44] INFO: job finished
+[21:44] INFO: job started
+[21:44] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:44] INFO: archived as returns_agadir_2026-10-17.csv
+[21:44] INFO: job finished
+[21:44] INFO: job started
+[21:44] INFO: reading incoming/returns_casa.csv
+INFO
+[21:44] INFO: archived as returns_casa_2026-10-17.csv
+[21:44] INFO: job finished
+[21:44] INFO: job started
+[21:44] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:44] INFO: archived as returns_tanger_2026-10-17.csv
+[21:44] INFO: job finished
+[21:45] INFO: job started
+[21:45] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:45] INFO: archived as returns_agadir_2026-10-17.csv
+[21:45] INFO: job finished
+[21:45] INFO: job started
+[21:45] INFO: reading incoming/returns_casa.csv
+INFO
+[21:45] INFO: archived as returns_casa_2026-10-17.csv
+[21:45] INFO: job finished
+[21:45] INFO: job started
+[21:45] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:45] INFO: archived as returns_tanger_2026-10-17.csv
+[21:45] INFO: job finished
+[21:45] INFO: job started
+[21:45] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:45] INFO: archived as returns_agadir_2026-10-17.csv
+[21:45] INFO: job finished
+[21:45] INFO: job started
+[21:45] INFO: reading incoming/returns_casa.csv
+INFO
+[21:45] INFO: archived as returns_casa_2026-10-17.csv
+[21:45] INFO: job finished
+[21:45] INFO: job started
+[21:45] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:45] INFO: archived as returns_tanger_2026-10-17.csv
+[21:45] INFO: job finished
+[21:45] INFO: job started
+[21:45] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:45] INFO: archived as returns_agadir_2026-10-17.csv
+[21:45] INFO: job finished
+[21:45] INFO: job started
+[21:45] INFO: reading incoming/returns_casa.csv
+INFO
+[21:45] INFO: archived as returns_casa_2026-10-17.csv
+[21:45] INFO: job finished
+[21:45] INFO: job started
+[21:45] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:45] INFO: archived as returns_tanger_2026-10-17.csv
+[21:45] INFO: job finished
+[21:45] INFO: job started
+[21:45] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:45] INFO: archived as returns_agadir_2026-10-17.csv
+[21:45] INFO: job finished
+[21:45] INFO: job started
+[21:45] INFO: reading incoming/returns_casa.csv
+INFO
+[21:45] INFO: archived as returns_casa_2026-10-17.csv
+[21:45] INFO: job finished
+[21:45] INFO: job started
+[21:45] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:45] INFO: archived as returns_tanger_2026-10-17.csv
+[21:45] INFO: job finished
+[21:45] INFO: job started
+[21:45] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:45] INFO: archived as returns_agadir_2026-10-17.csv
+[21:45] INFO: job finished
+[21:45] INFO: job started
+[21:45] INFO: reading incoming/returns_casa.csv
+INFO
+[21:45] INFO: archived as returns_casa_2026-10-17.csv
+[21:45] INFO: job finished
+[21:45] INFO: job started
+[21:45] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:45] INFO: archived as returns_tanger_2026-10-17.csv
+[21:45] INFO: job finished
+[21:45] INFO: job started
+[21:45] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:45] INFO: archived as returns_agadir_2026-10-17.csv
+[21:45] INFO: job finished
+[21:45] INFO: job started
+[21:45] INFO: reading incoming/returns_casa.csv
+INFO
+[21:45] INFO: archived as returns_casa_2026-10-17.csv
+[21:45] INFO: job finished
+[21:45] INFO: job started
+[21:45] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:45] INFO: archived as returns_tanger_2026-10-17.csv
+[21:45] INFO: job finished
+[21:46] INFO: job started
+[21:46] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:46] INFO: archived as returns_agadir_2026-10-17.csv
+[21:46] INFO: job finished
+[21:46] INFO: job started
+[21:46] INFO: reading incoming/returns_casa.csv
+INFO
+[21:46] INFO: archived as returns_casa_2026-10-17.csv
+[21:46] INFO: job finished
+[21:46] INFO: job started
+[21:46] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:46] INFO: archived as returns_tanger_2026-10-17.csv
+[21:46] INFO: job finished
+[21:46] INFO: job started
+[21:46] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:46] INFO: archived as returns_agadir_2026-10-17.csv
+[21:46] INFO: job finished
+[21:46] INFO: job started
+[21:46] INFO: reading incoming/returns_casa.csv
+INFO
+[21:46] INFO: archived as returns_casa_2026-10-17.csv
+[21:46] INFO: job finished
+[21:46] INFO: job started
+[21:46] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:46] INFO: archived as returns_tanger_2026-10-17.csv
+[21:46] INFO: job finished
+[21:46] INFO: job started
+[21:46] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:46] INFO: archived as returns_agadir_2026-10-17.csv
+[21:46] INFO: job finished
+[21:46] INFO: job started
+[21:46] INFO: reading incoming/returns_casa.csv
+INFO
+[21:46] INFO: archived as returns_casa_2026-10-17.csv
+[21:46] INFO: job finished
+[21:46] INFO: job started
+[21:46] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:46] INFO: archived as returns_tanger_2026-10-17.csv
+[21:46] INFO: job finished
+[21:46] INFO: job started
+[21:46] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:46] INFO: archived as returns_agadir_2026-10-17.csv
+[21:46] INFO: job finished
+[21:46] INFO: job started
+[21:46] INFO: reading incoming/returns_casa.csv
+INFO
+[21:46] INFO: archived as returns_casa_2026-10-17.csv
+[21:46] INFO: job finished
+[21:46] INFO: job started
+[21:46] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:46] INFO: archived as returns_tanger_2026-10-17.csv
+[21:46] INFO: job finished
+[21:46] INFO: job started
+[21:46] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:46] INFO: archived as returns_agadir_2026-10-17.csv
+[21:46] INFO: job finished
+[21:46] INFO: job started
+[21:46] INFO: reading incoming/returns_casa.csv
+INFO
+[21:46] INFO: archived as returns_casa_2026-10-17.csv
+[21:46] INFO: job finished
+[21:46] INFO: job started
+[21:46] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:46] INFO: archived as returns_tanger_2026-10-17.csv
+[21:46] INFO: job finished
+[21:46] INFO: job started
+[21:46] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:46] INFO: archived as returns_agadir_2026-10-17.csv
+[21:46] INFO: job finished
+[21:46] INFO: job started
+[21:46] INFO: reading incoming/returns_casa.csv
+INFO
+[21:46] INFO: archived as returns_casa_2026-10-17.csv
+[21:46] INFO: job finished
+[21:46] INFO: job started
+[21:46] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:46] INFO: archived as returns_tanger_2026-10-17.csv
+[21:46] INFO: job finished
+[21:47] INFO: job started
+[21:47] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:47] INFO: archived as returns_agadir_2026-10-17.csv
+[21:47] INFO: job finished
+[21:47] INFO: job started
+[21:47] INFO: reading incoming/returns_casa.csv
+INFO
+[21:47] INFO: archived as returns_casa_2026-10-17.csv
+[21:47] INFO: job finished
+[21:47] INFO: job started
+[21:47] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:47] INFO: archived as returns_tanger_2026-10-17.csv
+[21:47] INFO: job finished
+[21:47] INFO: job started
+[21:47] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:47] INFO: archived as returns_agadir_2026-10-17.csv
+[21:47] INFO: job finished
+[21:47] INFO: job started
+[21:47] INFO: reading incoming/returns_casa.csv
+INFO
+[21:47] INFO: archived as returns_casa_2026-10-17.csv
+[21:47] INFO: job finished
+[21:47] INFO: job started
+[21:47] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:47] INFO: archived as returns_tanger_2026-10-17.csv
+[21:47] INFO: job finished
+[21:47] INFO: job started
+[21:47] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:47] INFO: archived as returns_agadir_2026-10-17.csv
+[21:47] INFO: job finished
+[21:47] INFO: job started
+[21:47] INFO: reading incoming/returns_casa.csv
+INFO
+[21:47] INFO: archived as returns_casa_2026-10-17.csv
+[21:47] INFO: job finished
+[21:47] INFO: job started
+[21:47] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:47] INFO: archived as returns_tanger_2026-10-17.csv
+[21:47] INFO: job finished
+[21:47] INFO: job started
+[21:47] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:47] INFO: archived as returns_agadir_2026-10-17.csv
+[21:47] INFO: job finished
+[21:47] INFO: job started
+[21:47] INFO: reading incoming/returns_casa.csv
+INFO
+[21:47] INFO: archived as returns_casa_2026-10-17.csv
+[21:47] INFO: job finished
+[21:47] INFO: job started
+[21:47] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:47] INFO: archived as returns_tanger_2026-10-17.csv
+[21:47] INFO: job finished
+[21:47] INFO: job started
+[21:47] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:47] INFO: archived as returns_agadir_2026-10-17.csv
+[21:47] INFO: job finished
+[21:47] INFO: job started
+[21:47] INFO: reading incoming/returns_casa.csv
+INFO
+[21:47] INFO: archived as returns_casa_2026-10-17.csv
+[21:47] INFO: job finished
+[21:47] INFO: job started
+[21:47] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:47] INFO: archived as returns_tanger_2026-10-17.csv
+[21:47] INFO: job finished
+[21:47] INFO: job started
+[21:47] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:47] INFO: archived as returns_agadir_2026-10-17.csv
+[21:47] INFO: job finished
+[21:47] INFO: job started
+[21:47] INFO: reading incoming/returns_casa.csv
+INFO
+[21:47] INFO: archived as returns_casa_2026-10-17.csv
+[21:47] INFO: job finished
+[21:47] INFO: job started
+[21:47] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:47] INFO: archived as returns_tanger_2026-10-17.csv
+[21:47] INFO: job finished
+[21:48] INFO: job started
+[21:48] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:48] INFO: archived as returns_agadir_2026-10-17.csv
+[21:48] INFO: job finished
+[21:48] INFO: job started
+[21:48] INFO: reading incoming/returns_casa.csv
+INFO
+[21:48] INFO: archived as returns_casa_2026-10-17.csv
+[21:48] INFO: job finished
+[21:48] INFO: job started
+[21:48] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:48] INFO: archived as returns_tanger_2026-10-17.csv
+[21:48] INFO: job finished
+[21:48] INFO: job started
+[21:48] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:48] INFO: archived as returns_agadir_2026-10-17.csv
+[21:48] INFO: job finished
+[21:48] INFO: job started
+[21:48] INFO: reading incoming/returns_casa.csv
+INFO
+[21:48] INFO: archived as returns_casa_2026-10-17.csv
+[21:48] INFO: job finished
+[21:48] INFO: job started
+[21:48] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:48] INFO: archived as returns_tanger_2026-10-17.csv
+[21:48] INFO: job finished
+[21:48] INFO: job started
+[21:48] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:48] INFO: archived as returns_agadir_2026-10-17.csv
+[21:48] INFO: job finished
+[21:48] INFO: job started
+[21:48] INFO: reading incoming/returns_casa.csv
+INFO
+[21:48] INFO: archived as returns_casa_2026-10-17.csv
+[21:48] INFO: job finished
+[21:48] INFO: job started
+[21:48] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:48] INFO: archived as returns_tanger_2026-10-17.csv
+[21:48] INFO: job finished
+[21:48] INFO: job started
+[21:48] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:48] INFO: archived as returns_agadir_2026-10-17.csv
+[21:48] INFO: job finished
+[21:48] INFO: job started
+[21:48] INFO: reading incoming/returns_casa.csv
+INFO
+[21:48] INFO: archived as returns_casa_2026-10-17.csv
+[21:48] INFO: job finished
+[21:48] INFO: job started
+[21:48] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:48] INFO: archived as returns_tanger_2026-10-17.csv
+[21:48] INFO: job finished
+[21:48] INFO: job started
+[21:48] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:48] INFO: archived as returns_agadir_2026-10-17.csv
+[21:48] INFO: job finished
+[21:48] INFO: job started
+[21:48] INFO: reading incoming/returns_casa.csv
+INFO
+[21:48] INFO: archived as returns_casa_2026-10-17.csv
+[21:48] INFO: job finished
+[21:48] INFO: job started
+[21:48] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:48] INFO: archived as returns_tanger_2026-10-17.csv
+[21:48] INFO: job finished
+[21:48] INFO: job started
+[21:48] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:48] INFO: archived as returns_agadir_2026-10-17.csv
+[21:48] INFO: job finished
+[21:48] INFO: job started
+[21:48] INFO: reading incoming/returns_casa.csv
+INFO
+[21:48] INFO: archived as returns_casa_2026-10-17.csv
+[21:48] INFO: job finished
+[21:48] INFO: job started
+[21:48] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:48] INFO: archived as returns_tanger_2026-10-17.csv
+[21:48] INFO: job finished
+[21:49] INFO: job started
+[21:49] INFO: reading incoming/returns_agadir.csv
+INFO
+[21:49] INFO: archived as returns_agadir_2026-10-17.csv
+[21:49] INFO: job finished
+[21:49] INFO: job started
+[21:49] INFO: reading incoming/returns_casa.csv
+INFO
+[21:49] INFO: archived as returns_casa_2026-10-17.csv
+[21:49] INFO: job finished
+[21:49] INFO: job started
+[21:49] INFO: reading incoming/returns_tanger.csv
+INFO
+[21:49] INFO: archived as returns_tanger_2026-10-17.csv
+[21:49] INFO: job finished
+[21:51:28] [INFO ] Reading incoming/returns_agadir.csv
+[21:51:28] [INFO ] Successfully processed and archived as returns_agadir_2026-10-17.csv
+[21:51:29] [INFO ] Reading incoming/returns_casa.csv
+[21:51:29] [INFO ] Successfully processed and archived as returns_casa_2026-10-17.csv
+[21:51:29] [INFO ] Reading incoming/returns_tanger.csv
+[21:51:29] [ERROR] Missing column 'reason' in returns_tanger.csv — moved to errors/
+[21:53:29] [INFO ] Reading incoming/returns_agadir.csv
+[21:53:29] [INFO ] Successfully processed and archived as returns_agadir_2026-10-17.csv
+[21:53:29] [INFO ] Reading incoming/returns_casa.csv
+[21:53:29] [INFO ] Successfully processed and archived as returns_casa_2026-10-17.csv
+[21:53:29] [INFO ] Reading incoming/returns_tanger.csv
+[21:53:29] [ERROR] Missing column 'reason' in returns_tanger.csv — moved to errors/
+[21:54:49] [INFO ] Reading incoming/returns_tanger.csv
+[21:54:49] [ERROR] Missing column 'reason' in returns_tanger.csv — moved to errors/
+[21:55:09] [INFO ] Reading incoming/returns_tanger.csv
+[21:55:09] [INFO ] Successfully processed and archived as returns_tanger_2026-10-17.csv

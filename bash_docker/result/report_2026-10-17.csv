@@ -1,0 +1,10 @@
+id,city,reason,count
+1,agadir,changed_mind,13
+2,agadir,defective,11
+3,agadir,wrong_item,9
+4,casa,changed_mind,8
+5,casa,defective,18
+6,casa,wrong_item,8
+1,tanger,changed_mind,8
+2,tanger,defective,13
+3,tanger,wrong_item,12
